@@ -1,0 +1,48 @@
+body{
+    background-color: #9caafa;
+    background-image:linear-gradient(#9caafa,rgb(231, 231, 0),rgb(255, 37, 37))
+}
+
+H1{
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, sans-serif;
+    font-size:xx-large;
+    font-style: inherit;
+    font-weight: 300;
+}
+
+img{
+    margin: 300px;
+    width: 700px;
+}
+
+H3{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: unset;
+}
+
+H2{
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, sans-serif;
+    font-size:xx-large;
+    font-style: inherit;
+    font-weight: 300;}
+
+li{
+    color: aliceblue;
+    width: max-content;
+    size: 80px;
+}
+
+ul{
+    color: aliceblue;
+    width: max-content;
+    size: 80px;
+}
+
+p{
+    color: aliceblue;
+    width: max-content;
+    size: 80px;
+}
